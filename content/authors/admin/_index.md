@@ -23,23 +23,28 @@ social:
     icon_pack: fab
     icon: linkedin
     link: https://www.linkedin.com/in/jonathanparrav/
+  - display:
+      header: false
+    link: https://orcid.org/0000-0001-7273-0406
+    icon_pack: fab
+    icon: orcid
 organizations:
   - name: Universidad de Costa Rica
     url: https://www.ucr.ac.cr/
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: "PhD in Pharmacy & Biomedical Sciences "
+      institution: University of Strathclyde
+      year: 2014
+    - course: MSc in Chemistry
+      institution: Universidad de Costa Rica
+      year: 2017
+    - course: BPharm
+      institution: Universidad de Costa Rica
+      year: 2011
 superuser: true
 user_groups:
-  - Researchers
+  - PI
 last_name: Bighetti
 highlight_name: false
 first_name: Nelson
