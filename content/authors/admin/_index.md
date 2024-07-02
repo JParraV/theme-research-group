@@ -1,13 +1,13 @@
 ---
 title: Jonathan Parra Villalobos
-role: Professor of Artificial Intelligence
-avatar_filename: aks_0471.jpg
+role: Assistant Professor (PI)
+avatar_filename: avatar.png
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Natural Products
+  - Drug Discovery
+  - Chemical Ecology
 social:
   - icon: envelope
     icon_pack: fas
@@ -45,7 +45,4 @@ highlight_name: false
 first_name: Nelson
 email: ""
 ---
-
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+After pursuing a Pharmacy Degree and a Master's Degree in Chemistry at the University of Costa Rica, Parra obtained a PhD in Pharmacy and Biomedical Sciences at the University of Strathclyde working in the group of [Katherine R. Duncan](https://t.co/Lji59VJjqQ). Currently, he works as an associate researcher in the Natural Products Research Center ([CIPRONA](https://ciprona.ucr.ac.cr/)) and the National Center for Biotechnology Innovations ([CENIBiot](https://www.cenibiot.ac.cr/en/)).
