@@ -1,6 +1,6 @@
 ---
 title: Jonathan Parra Villalobos
-role: Assistant Professor (PI)
+role: Assistant Professor
 avatar_filename: avatar.png
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
