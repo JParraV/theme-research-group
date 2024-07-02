@@ -11,19 +11,21 @@ interests:
 social:
   - icon: envelope
     icon_pack: fas
-    link: mailto:test@example.org
+    link: mailto:jonathan.parra@ucr.ac.cr
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+    link: https://twitter.com/JonathanParraV
   - icon: google-scholar
     icon_pack: ai
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-  - icon: github
+    link: https://scholar.google.co.cr/citations?user=IRMm8A0AAAAJ&hl=en
+  - display:
+      header: false
     icon_pack: fab
-    link: https://github.com/gcushen
+    icon: linkedin
+    link: https://www.linkedin.com/in/jonathanparrav/
 organizations:
-  - name: Stanford University
-    url: ""
+  - name: Universidad de Costa Rica
+    url: https://www.ucr.ac.cr/
 education:
   courses:
     - course: PhD in Artificial Intelligence
