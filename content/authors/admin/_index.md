@@ -1,6 +1,7 @@
 ---
 title: Jonathan Parra Villalobos
 role: Professor of Artificial Intelligence
+avatar_filename: aks_0471.jpg
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
