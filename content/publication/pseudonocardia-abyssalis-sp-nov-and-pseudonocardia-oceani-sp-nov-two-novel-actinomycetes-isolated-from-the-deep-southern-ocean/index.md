@@ -2,7 +2,7 @@
 title: Pseudonocardia abyssalis sp. nov. and Pseudonocardia oceani sp. nov., two
   novel actinomycetes isolated from the deep Southern Ocean
 publication_types:
-  - paper-conference
+  - article-journal
 authors:
   - Admin
   - Sylvia Soldatou
