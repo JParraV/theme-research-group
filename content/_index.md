@@ -16,7 +16,7 @@ sections:
       text: |
         <br>
         
-        Based in Costa Rica, our group integrates microbiology, genomics, metabolomics and natural products chemistry for the study of actinomycetes and its specialised metabolism.
+        Based in Costa Rica, our group integrates microbiology, genomics, metabolomics and natural products chemistry for the study of actinomycetes and their specialised metabolism.
   
   - block: collection
     content:
