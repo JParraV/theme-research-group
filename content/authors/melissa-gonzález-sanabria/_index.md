@@ -20,4 +20,6 @@ education:
       institution: Universidad de Costa Rica
       year: 2022
 superuser: false
+user_groups:
+  - Grad Students
 ---
