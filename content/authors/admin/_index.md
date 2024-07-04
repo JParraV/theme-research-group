@@ -45,9 +45,9 @@ education:
 superuser: true
 user_groups:
   - Researchers
-last_name: Bighetti
+last_name: Parra
 highlight_name: false
-first_name: Nelson
+first_name: Jonathan
 email: ""
 ---
 After pursuing a Pharmacy Degree and a Master's Degree in Chemistry at the University of Costa Rica, Parra obtained a PhD in Pharmacy and Biomedical Sciences at the University of Strathclyde working in the group of [Katherine R. Duncan](https://t.co/Lji59VJjqQ). Currently, he works as an associate researcher in the Natural Products Research Center ([CIPRONA](https://ciprona.ucr.ac.cr/)) and the National Center for Biotechnology Innovations ([CENIBiot](https://www.cenibiot.ac.cr/en/)).
