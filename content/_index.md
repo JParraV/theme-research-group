@@ -10,7 +10,7 @@ sections:
       title: |
         Actinomycete Chemical Ecology Group
       image:
-        filename: welcome.jpg
+        filename: lab1.jpg
       text: |
         <br>
         
