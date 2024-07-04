@@ -26,7 +26,7 @@ education:
     - course: Industrial Chemistry Degree
       institution: Universidad Nacional de Costa Rica
       year: 2023
-    - course: MSc Chemistry
+    - course: MSc in Chemistry
       institution: Universidad de Costa Rica
       year: ""
 email: miguel.vegafernandez@ucr.ac.cr
