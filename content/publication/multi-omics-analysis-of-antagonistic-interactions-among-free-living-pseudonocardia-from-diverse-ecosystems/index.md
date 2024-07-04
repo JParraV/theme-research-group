@@ -1,6 +1,6 @@
 ---
 title: Multi-omics analysis of antagonistic interactions among free-living
-  Pseudonocardia from diverse ecosystems
+  _Pseudonocardia_ from diverse ecosystems
 publication_types:
   - article-journal
 authors:
