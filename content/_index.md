@@ -10,7 +10,7 @@ sections:
       title: |
         Actinomycete Chemical Ecology Group
       image:
-        filename: [lab1](https://github.com/JParraV/theme-research-group/assets/69057776/f42948a3-556e-4f68-b5a5-059d6712a267)
+        filename: lab1.jpg
 
 
       text: |
