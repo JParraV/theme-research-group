@@ -26,6 +26,7 @@ social:
     icon: envelope
 organizations:
   - name: Universidad de Costa Rica
+    url: https://www.ucr.ac.cr/
 education:
   courses:
     - course: Industrial Chemistry Degree
