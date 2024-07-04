@@ -36,5 +36,5 @@ image:
   filename: pseudonocardia.gif
   focal_point: Smart
   preview_only: false
-date: 2021-09-28T19:41:00.000Z
+date: 2021-09-28T00:00:00.000Z
 ---
