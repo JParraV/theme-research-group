@@ -1,6 +1,6 @@
 ---
 title: Jonathan Parra Villalobos
-role: Assistant Professor (PI)
+role: Assistant Professor
 avatar_filename: avatar.png
 bio: Integrating omics technologies for the study and discovery of new
   antibiotics from actinomycetes.
