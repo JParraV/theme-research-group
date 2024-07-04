@@ -21,8 +21,8 @@ social:
     link: https://www.instagram.com/m_angelvega
   - display:
       header: false
-    link: "mail to: miguel.vegafernandez@ucr.ac.cr"
-    icon_pack: far
+    link: mailto:miguel.vegafernandez@ucr.ac.cr
+    icon_pack: fas
     icon: envelope
 organizations:
   - name: Universidad de Costa Rica
