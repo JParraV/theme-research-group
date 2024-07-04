@@ -19,6 +19,11 @@ social:
     icon_pack: fab
     icon: instagram
     link: https://www.instagram.com/m_angelvega
+  - display:
+      header: false
+    link: "mail to: miguel.vegafernandez@ucr.ac.cr"
+    icon_pack: far
+    icon: envelope
 organizations:
   - name: Universidad de Costa Rica
 education:
@@ -29,7 +34,7 @@ education:
     - course: MSc in Chemistry
       institution: Universidad de Costa Rica
       year: ""
-email: miguel.vegafernandez@ucr.ac.cr
+email: ""
 superuser: false
 user_groups:
   - Grad Students
