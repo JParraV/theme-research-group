@@ -8,14 +8,13 @@ sections:
   - block: hero
     content:
       title: |
-        Wowchemy
-        Research Group
+        Actinomycete Chemical Ecology Group
       image:
         filename: welcome.jpg
       text: |
         <br>
         
-        The **Wowchemy Research Group** has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016.
+        Based in Costa Rica, our group integrates microbiology, genomics, metabolomics and natural products chemistry for the study of actinomycete and its specialised metabolism.
   
   - block: collection
     content:
