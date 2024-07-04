@@ -33,7 +33,7 @@ abstract: Actinomycetes are a phylogenetically diverse bacterial group which are
   332.20 were identified as metabolites related to these interspecies
   interactions.
 draft: false
-featured: false
+featured: true
 image:
   filename: emi16635-toc-0001-m.jpg
   focal_point: Smart
