@@ -10,12 +10,13 @@ sections:
       title: |
         Actinomycete Chemical Ecology Group
       image:
-        filename: ![lab1](https://github.com/JParraV/theme-research-group/assets/69057776/582b50e4-2c22-4754-8977-7deac91562f5)
+        filename: [lab1](https://github.com/JParraV/theme-research-group/assets/69057776/f42948a3-556e-4f68-b5a5-059d6712a267)
+
 
       text: |
         <br>
         
-        Based in Costa Rica, our group integrates microbiology, genomics, metabolomics and natural products chemistry for the study of actinomycete and its specialised metabolism.
+        Based in Costa Rica, our group integrates microbiology, genomics, metabolomics and natural products chemistry for the study of actinomycetes and its specialised metabolism.
   
   - block: collection
     content:
