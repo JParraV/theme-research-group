@@ -44,7 +44,7 @@ education:
       year: 2011
 superuser: true
 user_groups:
-  - Researchers
+  - Principal Investigators
 last_name: Parra
 highlight_name: false
 first_name: Jonathan
