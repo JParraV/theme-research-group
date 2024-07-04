@@ -5,10 +5,10 @@ publication_types:
 authors:
   - Admin
   - Ainsley Beaton
-  - Ryan F Seipke
+  - Ryan F. Seipke
   - Barrie Wilkinson
-  - Matthew I Hutchings
-  - Katherine R Duncan
+  - Matthew I. Hutchings
+  - Katherine R. Duncan
 author_notes: []
 doi: https://doi.org/10.1016/j.mib.2023.102385
 publication: Parra, J., Beaton, A., Seipke, R. F., Wilkinson, B., Hutchings, M.
@@ -39,5 +39,5 @@ image:
   filename: featured
   focal_point: Smart
   preview_only: false
-date: 2024-07-03T19:22:00.000Z
+date: 2023-01-01T00:00:00.000Z
 ---
