@@ -28,7 +28,7 @@ education:
       year: 2023
     - course: MSc Chemistry
       institution: Universidad de Costa Rica
-      year: -3
+      year: ""
 email: miguel.vegafernandez@ucr.ac.cr
 superuser: false
 user_groups:
