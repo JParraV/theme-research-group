@@ -31,6 +31,8 @@ social:
 organizations:
   - name: Universidad de Costa Rica
     url: https://www.ucr.ac.cr/
+  - name: Centro Nacional De Innovaciones Biotecnológicas
+    url: https://www.cenibiot.ac.cr/en/
 education:
   courses:
     - course: "PhD in Pharmacy & Biomedical Sciences "
