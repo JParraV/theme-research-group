@@ -8,7 +8,8 @@ links:
     icon: instagram
     url: https://www.instagram.com/vidaenlaarena/
 image:
-  filename: featured
+  filename: arena.jpg
   focal_point: Smart
   preview_only: false
 ---
+Science communication project 🧬. We study the life of the microorganisms that inhabit the sand of the sea and the wonders they produce 🌊.
