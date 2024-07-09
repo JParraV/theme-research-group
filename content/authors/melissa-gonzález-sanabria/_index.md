@@ -12,7 +12,7 @@ social:
 organizations:
   - name: Universidad de Costa Rica
     url: https://www.ucr.ac.cr/
-  - name: Centro Nacional De Innovaciones Biotecnológicas
+  - name: Centro Nacional de Innovaciones Biotecnológicas
     url: https://www.cenibiot.ac.cr/en/
 education:
   courses:
