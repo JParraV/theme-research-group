@@ -19,6 +19,8 @@ education:
     - course: BSc in Chemistry
       institution: Universidad de Costa Rica
       year: 2022
+    - course: MSc in Chemistry
+      institution: Universidad de Costa Rica
 superuser: false
 user_groups:
   - Grad Students
