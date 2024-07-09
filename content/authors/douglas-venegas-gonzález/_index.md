@@ -1,7 +1,13 @@
 ---
 title: "Douglas Venegas González "
+role: Chemical Analyst
 avatar_filename: avatar
 social:
+  - display:
+      header: false
+    link: mailto:dvenegas@cenat.ac.cr
+    icon_pack: fas
+    icon: envelope
   - display:
       header: false
     link: https://www.linkedin.com/in/douglas-venegas-73a2a7215
