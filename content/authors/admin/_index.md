@@ -31,7 +31,7 @@ social:
 organizations:
   - name: Universidad de Costa Rica
     url: https://www.ucr.ac.cr/
-  - name: Centro Nacional De Innovaciones Biotecnológicas
+  - name: Centro Nacional de Innovaciones Biotecnológicas
     url: https://www.cenibiot.ac.cr/en/
 education:
   courses:
@@ -54,4 +54,4 @@ email: ""
 ---
 After pursuing a Pharmacy Degree and a Master's Degree in Chemistry at the University of Costa Rica, Parra obtained a PhD in Pharmacy and Biomedical Sciences at the University of Strathclyde working in the group of [Katherine R. Duncan](https://t.co/Lji59VJjqQ). Currently, he works as an associate researcher at the Natural Products Research Centre ([CIPRONA](https://ciprona.ucr.ac.cr/)) and the National Centre for Biotechnology Innovations ([CENIBiot](https://www.cenibiot.ac.cr/en/)).
 
-Our group aims to integrate omics technologies for the study and discovery of new antibiotics from actinomycetes, as well as to better understand their ecological role.
+Parra aims to integrate omics technologies for the study and discovery of new antibiotics from actinomycetes, as well as to better understand their ecological role.
