@@ -16,6 +16,10 @@ social:
 organizations:
   - name: Centro Nacional de Innovaciones Biotecnológicas
     url: https://www.cenibiot.ac.cr/
+education:
+  courses:
+    - course: MSc in chemistry
+      institution: Universidad de Costa Rica
 superuser: false
 user_groups:
   - Researchers
