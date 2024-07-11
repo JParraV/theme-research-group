@@ -18,7 +18,7 @@ organizations:
     url: https://www.cenibiot.ac.cr/
 education:
   courses:
-    - course: MSc in chemistry
+    - course: MSc in Chemistry
       institution: Universidad de Costa Rica
 superuser: false
 user_groups:
