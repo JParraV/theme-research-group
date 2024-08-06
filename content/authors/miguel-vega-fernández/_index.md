@@ -1,7 +1,7 @@
 ---
 title: Miguel Vega Fernández
 role: MSc Chemistry student
-avatar_filename: miguel.png
+avatar_filename: avatar.png
 bio: Chemical profiling of actinomycetes for strain prioritisation and
   antibiotics discovery.
 interests:
