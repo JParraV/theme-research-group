@@ -1,7 +1,7 @@
 ---
 title: Miguel Vega Fernández
 role: MSc Chemistry student
-avatar_filename: avatar
+avatar_filename: img_20230302_180309_552.jpg
 bio: Chemical profiling of actinomycetes for strain prioritisation and
   antibiotics discovery.
 interests:
@@ -40,4 +40,4 @@ superuser: false
 user_groups:
   - Grad Students
 ---
-Industrial chemist with experience in chemical and biochemical assays. After finishing his degree at the National University of Costa Rica (UNA), Miguel is pursuing a master’s degree in chemistry at the University of Costa Rica (UCR), specialising in the chemical profiling of actinomycetes to uncover novel natural products. He is interested in metabolomics, analytical chemistry, and biotechnology. By applying advanced analytical techniques, he aims to explore the specialised metabolism of actinomycetes to identify novel compounds with potential applications in industry.
+Industrial chemist with experience in chemical and biochemical analysis. After finishing his degree at the National University of Costa Rica (UNA), Miguel is pursuing a master’s degree in chemistry at the University of Costa Rica (UCR), specialising in the chemical profiling of actinomycetes to uncover novel natural products. He is interested in metabolomics, analytical chemistry, and biotechnology. By applying advanced analytical techniques, he aims to explore the specialised metabolism of actinomycetes to identify novel compounds with potential applications in industry.
