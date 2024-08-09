@@ -4,6 +4,9 @@ subtitle: Rice endophytic actinomycetes as crop growth and health promoters.
 date: 2024-08-08T17:53:00.000Z
 draft: false
 featured: false
+authors:
+  - admin
+  - Melissa González Sanabria
 image:
   filename: featured
   focal_point: Smart
