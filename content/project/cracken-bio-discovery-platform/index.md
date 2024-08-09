@@ -4,6 +4,9 @@ subtitle: "Costa Rican Actinomycetes Collection - Korean Biotech Engineering "
 date: 2024-07-08T16:35:00.000Z
 draft: false
 featured: false
+authors:
+  - admin
+  - Miguel Vega Fernández
 image:
   filename: featured
   focal_point: Smart
