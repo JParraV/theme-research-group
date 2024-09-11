@@ -8,7 +8,7 @@ authors:
   - admin
   - Melissa González Sanabria
 image:
-  filename: featured
+  filename: arroz.jpg
   focal_point: Smart
   preview_only: false
 ---
