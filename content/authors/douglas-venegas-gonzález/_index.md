@@ -1,7 +1,7 @@
 ---
 title: "Douglas Venegas González "
 role: Chemical Analyst
-avatar_filename: douglas.jpg
+avatar_filename: avatar.jpg
 interests:
   - Environmental Chemistry
   - Chemoinformatics
