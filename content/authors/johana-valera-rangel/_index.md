@@ -18,7 +18,7 @@ social:
       header: false
     icon_pack: fab
     icon: linkedin
-    link: www.linkedin.com/in/johanavalera
+    link: https://www.linkedin.com/in/johanavalera/
   - display:
       header: false
     icon_pack: fab
