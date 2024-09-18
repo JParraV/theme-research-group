@@ -30,7 +30,7 @@ organizations:
 education:
   courses:
     - course: Pharmacy Degree
-      institution: Unievrsidad de Costa Rica
+      institution: Universidad de Costa Rica
 superuser: false
 user_groups:
   - Undergraduate Students
