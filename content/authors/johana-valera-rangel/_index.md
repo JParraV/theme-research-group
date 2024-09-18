@@ -11,6 +11,16 @@ interests:
 social:
   - display:
       header: false
+    icon_pack: fas
+    icon: envelope
+    link: mailto:johana.valera@ucr.ac.cr
+  - display:
+      header: false
+    icon_pack: fab
+    icon: linkedin
+    link: www.linkedin.com/in/johanavalera
+  - display:
+      header: false
     icon_pack: fab
     icon: orcid
     link: https://orcid.org/0000-0002-9146-3785
