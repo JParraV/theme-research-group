@@ -10,6 +10,9 @@ authors:
   - admin
   - Katherine R. Duncan
 doi: https://doi.org/10.1099/mic.0.001501
+publication: "Whatmough, B., Holmes, N. A., Wilkinson, B., Hutchings, M. I.,
+  Parra, J., & Duncan, K. R. (2024). Microbe Profile: Pseudonocardia:
+  antibiotics for every niche. Microbiology, 170(9), 001501."
 abstract: Pseudonocardia species comprise a genus of filamentous, sporulating
   bacteria belonging to the phylum Actinomycetota, formerly Actinobacteria. They
   are found in marine and freshwater sediments and soils and associated with
