@@ -3,6 +3,8 @@ title: Vida en la Arena
 date: 2024-07-02T17:43:00.000Z
 draft: false
 featured: false
+authors:
+  - admin
 links:
   - icon_pack: fab
     icon: instagram
