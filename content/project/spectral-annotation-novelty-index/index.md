@@ -7,6 +7,7 @@ draft: false
 featured: false
 authors:
   - Douglas Venegas González
+  - admin
 external_link: ""
 links:
   - url: https://github.com/DouglasVenegas/IQ_Chemical-Novelty-Index
