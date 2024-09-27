@@ -16,6 +16,11 @@ social:
     link: https://www.linkedin.com/in/douglas-venegas-73a2a7215
     icon_pack: fab
     icon: linkedin
+  - display:
+      header: false
+    icon_pack: fab
+    link: https://github.com/DouglasVenegas
+    icon: github
 organizations:
   - name: Centro Nacional de Innovaciones Biotecnológicas
     url: https://www.cenibiot.ac.cr/
