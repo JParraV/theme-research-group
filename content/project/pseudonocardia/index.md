@@ -9,6 +9,7 @@ featured: false
 authors:
   - admin
   - Johana Valera Rangel
+  - Leandro Villalobos Bravo
 image:
   filename: p.-sediminis-nabu-7500.jpg
   focal_point: Smart
