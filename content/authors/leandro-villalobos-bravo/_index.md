@@ -15,7 +15,7 @@ social:
     icon: envelope
   - display:
       header: false
-    link: www.linkedin.com/in/leandrovillalobosbravo
+    link: https://www.linkedin.com/in/leandrovillalobosbravo/
     icon_pack: fab
     icon: linkedin
   - display:
