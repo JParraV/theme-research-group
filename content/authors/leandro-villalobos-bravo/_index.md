@@ -2,6 +2,8 @@
 title: Leandro Villalobos Bravo
 role: Pharmacy student
 avatar_filename: avatar.jpg
+bio: Integrating microbiology techniques and omics technologies for the study
+  and discovery of new antibiotics from actinomycetes.
 interests:
   - Biotechnology
   - Drug Discovery
@@ -32,3 +34,4 @@ superuser: false
 user_groups:
   - Undergraduate Students
 ---
+Undergraduate student at the University of Costa Rica (UCR), pursuing a degree in Pharmacy. Leandro has gained practical experience in microbiological techniques and metabolomics analysis while developing his thesis project on the metabolites and genes of a bacteria from the genus *Pseudonocardia*. His interests are related to drug discovery and biotechnology.
