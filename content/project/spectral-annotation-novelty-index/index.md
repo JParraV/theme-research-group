@@ -14,7 +14,7 @@ links:
     icon_pack: fab
     icon: github
 image:
-  filename: featured
+  filename: red.png
   focal_point: Smart
   preview_only: false
 ---
