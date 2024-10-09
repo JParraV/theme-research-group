@@ -8,7 +8,7 @@ authors:
   - admin
   - Miguel Vega Fernández
 image:
-  filename: featured
+  filename: cepas.jpg
   focal_point: Smart
   preview_only: false
 ---
