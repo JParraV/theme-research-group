@@ -4,21 +4,13 @@ title: "MIBiG 3.0: a community-driven effort to annotate experimentally
 publication_types:
   - article-journal
 authors:
-  - Terlouw
-  - B. R.
-  - Blin
-  - K.
-  - Navarro-Munoz
-  - J. C.
-  - Avalon
-  - N. E.
-  - Chevrette
-  - M. G.
-  - Egbert
-  - S.
+  - Barbara R Terlouw
+  - ...
   - admin
-  - ... & Medema
-  - M. H
+  - ...
+  - Roger G. Linington
+  - Tilmann Weber
+  - Marnix H. Medema
 doi: https://doi.org/10.1093/nar/gkac1049
 publication: "Terlouw, B. R., Blin, K., Navarro-Munoz, J. C., Avalon, N. E.,
   Chevrette, M. G., Egbert, S., ... & Medema, M. H. (2023). MIBiG 3.0: a
