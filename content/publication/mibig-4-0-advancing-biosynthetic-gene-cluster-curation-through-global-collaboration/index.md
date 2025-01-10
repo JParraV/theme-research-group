@@ -4,8 +4,9 @@ title: "MIBiG 4.0: advancing biosynthetic gene cluster curation through global
 publication_types:
   - article-journal
 authors:
-  - Mitja M Zdouc
-  - ...admin
+  - Mitja M. Zdouc
+  - ...
+  - admin
   - ...
   - Roger G. Linington
   - Tilmann Weber
