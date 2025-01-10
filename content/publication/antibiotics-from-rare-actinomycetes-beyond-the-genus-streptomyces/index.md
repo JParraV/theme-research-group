@@ -36,7 +36,7 @@ abstract: Throughout the golden age of antibiotic discovery, Streptomyces have
 draft: false
 featured: false
 image:
-  filename: featured
+  filename: antibiotics-rare-actinomycetes.jpg
   focal_point: Smart
   preview_only: false
 date: 2023-10-05T00:00:00.000Z
