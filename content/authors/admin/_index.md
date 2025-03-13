@@ -1,4 +1,6 @@
 ---
+title: Jonathan Parra Villalobos
+role: Assistant Professor
 avatar_filename: avatar.png
 bio: Integrating omics technologies for the study and discovery of new
   antibiotics from actinomycetes.
@@ -26,6 +28,11 @@ social:
     link: https://orcid.org/0000-0001-7273-0406
     icon_pack: fab
     icon: orcid
+  - display:
+      header: false
+    icon_pack: fab
+    link: https://bsky.app/profile/jonathanparra.bsky.social
+    icon: bluesky
 organizations:
   - name: Universidad de Costa Rica
     url: https://www.ucr.ac.cr/
@@ -46,9 +53,7 @@ superuser: true
 user_groups:
   - Principal Investigator
 last_name: Parra
-role: Assistant Professor
 highlight_name: false
-title: Jonathan Parra Villalobos
 first_name: Jonathan
 email: ""
 ---
