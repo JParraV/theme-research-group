@@ -12,9 +12,6 @@ social:
   - icon: envelope
     icon_pack: fas
     link: mailto:jonathan.parra@ucr.ac.cr
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/JonathanParraV
   - icon: google-scholar
     icon_pack: ai
     link: https://scholar.google.co.cr/citations?user=IRMm8A0AAAAJ&hl=en
