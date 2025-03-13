@@ -15,4 +15,4 @@ image:
   focal_point: Smart
   preview_only: false
 ---
-A research project that explores the specialised metabolism of *Pseudonocardia* strains from marine origin as a source of new antifungal metabolites with activity against *Candida* spp. Project affiliated with the Institute of Pharmaceutical Research ([INIFAR](https://inifar.ucr.ac.cr/)) in collaboration with Professor Arlene Loría.
+A research project that explores the specialised metabolism of *Pseudonocardia* strains from marine origin as a source of new antifungal metabolites with activity against *Candida* spp. Project affiliated with the Institute of Pharmaceutical Research ([INIFAR](https://inifar.ucr.ac.cr/)) in collaboration with Dr Arlene Loría. This project is carried out in collaboration with Dr [Katherine R. Duncan](https://www.medicinesfromthesea.com/) from the Biosciences Institute at Newcastle University.
