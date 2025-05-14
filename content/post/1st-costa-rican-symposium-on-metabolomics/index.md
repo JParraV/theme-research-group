@@ -1,6 +1,6 @@
 ---
 title: 1st Costa Rican Symposium on Metabolomics
-date: 2025-04-10T12:00:00.000Z
+date: 2025-04-10T00:00:00.000Z
 draft: false
 featured: false
 image:
