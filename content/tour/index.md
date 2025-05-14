@@ -29,7 +29,7 @@ sections:
           position: center
           color: '#555'
       - title: Inspired by nature
-        content: As David Attenborough said once, “An understanding of the natural world and what’s in it is a source of not only a great curiosity but great fulfilment”. We study natural products because we believe that nature holds the answer to many of our health and food safety problems.
+        content: As David Attenborough once said, “An understanding of the natural world and what’s in it is a source of not only a great curiosity but great fulfilment”. We study natural products because we believe that nature holds the answer to many of our health and food safety problems.
         align: left
         background:
           image:
