@@ -10,4 +10,4 @@ superuser: false
 user_groups:
   - Support staff
 ---
-In her project "Capuchin Monkeys: Friends or Foes," Skye applies sheep-herding techniques developed in Scotland to interact with tropical animals.
+In her project 'Capuchin Monkeys: Friends or Foes', Skye applies sheep-herding techniques developed in Scotland to interact with tropical fauna.
