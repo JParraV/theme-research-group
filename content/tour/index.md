@@ -8,12 +8,12 @@ sections:
   - block: slider
     content:
       slides:
-      - title: 👋 Welcome to the group
-        content: Take a look at what we're working on...
+      - title: Pura vida
+        content: We are a research group based in Costa Rica interested in exploring the chemical potential of actinomycetes
         align: center
         background:
           image:
-            filename: coders.jpg
+            filename: caboblanco.jpg
             filters:
               brightness: 0.7
           position: right
