@@ -1,5 +1,5 @@
 ---
-title: V Latin American Metabolic Profiling Society Meeting
+title: V Latin American Metabolic Profiling Society Meeting 2024
 date: 2024-11-01T08:00:00.000Z
 draft: false
 featured: false
