@@ -9,7 +9,7 @@ sections:
     content:
       slides:
       - title: Pura vida
-        content: 'We are a research group based in Costa Rica interested in exploring the chemical potential of actinomycetes'
+        content: We are a research group based in Costa Rica interested in exploring the chemical potential of actinomycetes
         align: center
         background:
           image:
@@ -19,7 +19,7 @@ sections:
           position: right
           color: '#666'
       - title: Research
-        content: 'We integrate metabolomics with other omics technologies for the biodiscovery of compounds with biotechnological applications'
+        content: We integrate metabolomics with other omics technologies for the biodiscovery of compounds with  biotechnological applications
         align: left
         background:
           image:
@@ -29,7 +29,7 @@ sections:
           position: center
           color: '#555'
         - title: Inspired by nature
-        content: 'As David Attenborough said once, “An understanding of the natural world and what’s in it is a source of not only a great curiosity but great fulfillment”. We study natural products because we believe that nature holds the answer to many of our health and food safety problems'
+        content: As David Attenborough said once, “An understanding of the natural world and what’s in it is a source of not only a great curiosity but great fulfilment”. We study natural products because we believe that nature holds the answer to many of our health and food safety problems.
         align: left
         background:
           image:
