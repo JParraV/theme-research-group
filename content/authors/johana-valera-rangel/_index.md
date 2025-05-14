@@ -33,6 +33,6 @@ education:
       institution: Universidad de Costa Rica
 superuser: false
 user_groups:
-  - Undergraduate Students
+  - Alumni
 ---
 Undergraduate student at the University of Costa Rica (UCR), pursuing a degree in Pharmacy. Johana has gained practical experience in microbiology and metabolomics while developing her thesis project on studying the specialized metabolism of rare actinomycetes. Her goal is to continue studying actinomycetes as a source of novel antibiotics to provide potential solutions to the problem of antimicrobial resistance.
