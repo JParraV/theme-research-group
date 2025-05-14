@@ -32,6 +32,6 @@ education:
       institution: Universidad de Costa Rica
 superuser: false
 user_groups:
-  - Undergraduate Students
+  - Alumni
 ---
 Undergraduate student at the University of Costa Rica (UCR), pursuing a degree in Pharmacy. Leandro has gained practical experience in microbiological techniques and metabolomics analysis while developing his thesis project on the metabolites and genes of a bacteria from the genus *Pseudonocardia*. His interests are related to drug discovery and biotechnology.
