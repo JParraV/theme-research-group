@@ -1,6 +1,10 @@
 ---
 title: Skye
 avatar_filename: avatar.jpg
+interests:
+  - River walks
+  - Chasing moving things
+  - Petting
 social: []
 superuser: false
 ---
