@@ -28,7 +28,7 @@ sections:
               brightness: 0.7
           position: center
           color: '#555'
-        - title: Inspired by nature
+      - title: Inspired by nature
         content: As David Attenborough said once, “An understanding of the natural world and what’s in it is a source of not only a great curiosity but great fulfilment”. We study natural products because we believe that nature holds the answer to many of our health and food safety problems.
         align: left
         background:
@@ -37,8 +37,8 @@ sections:
             filters:
               brightness: 0.7
           position: center
-          color: '#555'
-      - title: World-Class Semiconductor Lab
+          color: '#444'
+      - title: Interdisciplinary research 
         content: 'We love to collaborate. If you have an idea we could develop together in Costa Rica, contact us!!'
         align: right
         background:
