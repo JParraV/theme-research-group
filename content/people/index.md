@@ -14,11 +14,11 @@ sections:
           - Principal Investigator
           - Researchers
           - Grad Students
-          - Undergraduate Students
+          - Undergrad Students
           - Administration
           - Visitors
-          - Alumni
           - Support staff 
+          - Alumni
       sort_by: Params.last_name
       sort_ascending: true
     design:
