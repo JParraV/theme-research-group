@@ -2,8 +2,8 @@
 title: Jonathan Parra Villalobos
 role: Assistant Professor
 avatar_filename: avatar.png
-bio: Integrating omics technologies for studying and discovering new
-  antibiotics from actinomycetes.
+bio: Integrating omics technologies for studying and discovering new antibiotics
+  from actinomycetes.
 interests:
   - Natural Products
   - Drug Discovery
@@ -12,24 +12,24 @@ social:
   - icon: envelope
     icon_pack: fas
     link: mailto:jonathan.parra@ucr.ac.cr
-  - icon: google-scholar
-    icon_pack: ai
-    link: https://scholar.google.co.cr/citations?user=IRMm8A0AAAAJ&hl=en
-  - display:
-      header: false
-    icon_pack: fab
-    icon: linkedin
-    link: https://www.linkedin.com/in/jonathanparrav/
   - display:
       header: false
     link: https://orcid.org/0000-0001-7273-0406
     icon_pack: fab
     icon: orcid
+  - icon: google-scholar
+    icon_pack: ai
+    link: https://scholar.google.co.cr/citations?user=IRMm8A0AAAAJ&hl=en
   - display:
       header: false
     icon: bluesky
-    icon_pack: fab
+    icon_pack: far
     link: https://bsky.app/profile/jonathanparra.bsky.social
+  - display:
+      header: false
+    icon_pack: fab
+    icon: linkedin
+    link: https://www.linkedin.com/in/jonathanparrav/
 organizations:
   - name: Universidad de Costa Rica
     url: https://www.ucr.ac.cr/
