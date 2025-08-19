@@ -1,6 +1,11 @@
 ---
-title: Mariana Campos
+title: Mariana Campos Chaves
+role: Chemical Engineering Student
 avatar_filename: avatar.jpg
+interests:
+  - Biotechnology
+  - Natural Products
+  - Marine Biology
 social:
   - display:
       header: false
