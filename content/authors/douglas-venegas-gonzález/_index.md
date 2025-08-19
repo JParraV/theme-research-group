@@ -1,6 +1,6 @@
 ---
 title: "Douglas Venegas González "
-role: Chemical Analyst
+role: Associate Researcher
 avatar_filename: avatar.jpg
 interests:
   - Environmental Chemistry
@@ -22,8 +22,8 @@ social:
     link: https://github.com/DouglasVenegas
     icon: github
 organizations:
-  - name: Centro Nacional de Innovaciones Biotecnológicas
-    url: https://www.cenibiot.ac.cr/
+  - name: Universidad de Costa Rica
+    url: https://sedeguanacaste.ucr.ac.cr/
 education:
   courses:
     - course: MSc in Chemistry
