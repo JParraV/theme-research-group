@@ -3,6 +3,8 @@ title: Metabolomics in Food Science
 date: 2025-08-20T17:51:00.000-06:00
 draft: false
 featured: false
+authors:
+  - Douglas Venegas González
 image:
   filename: metabolomics-in-food-.jpg
   focal_point: Smart
