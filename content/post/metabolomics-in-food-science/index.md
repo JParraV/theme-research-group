@@ -1,6 +1,6 @@
 ---
 title: Metabolomics in Food Science
-date: 2025-08-20T17:51:00.000-06:00
+date: 2025-07-25T00:00:00.000-06:00
 draft: false
 featured: false
 authors:
