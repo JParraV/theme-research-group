@@ -5,6 +5,8 @@ draft: false
 featured: false
 authors:
   - Jonathan Parra Villalobos
+projects:
+  - Vida en la Arena
 image:
   filename: isba_prize.jpg
   focal_point: Smart
