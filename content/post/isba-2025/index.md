@@ -3,6 +3,8 @@ title: ISBA 2025
 date: 2025-06-15T00:00:00.000-06:00
 draft: false
 featured: false
+authors:
+  - Jonathan Parra Villalobos
 image:
   filename: isba_groupphotoi_egmondaanzee.png
   focal_point: Smart
