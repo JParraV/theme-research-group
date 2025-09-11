@@ -15,7 +15,7 @@ social:
 education:
   courses:
     - course: Degree in Chemical Laboratory Science
-      institution: University of Costa Rica
+      institution: Universidad de Costa Rica
 superuser: false
 user_groups:
   - Undergrad Students
