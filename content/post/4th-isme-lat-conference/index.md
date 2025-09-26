@@ -3,6 +3,10 @@ title: 4th ISME Lat Conference
 date: 2025-08-04T00:00:00.000-06:00
 draft: false
 featured: false
+authors:
+  - Mariana Campos Chaves
+projects:
+  - Vida en la Arena
 image:
   filename: featured
   focal_point: Smart
