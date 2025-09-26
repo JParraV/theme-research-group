@@ -3,6 +3,10 @@ title: FEMS 2025
 date: 2025-07-14T00:00:00.000-06:00
 draft: false
 featured: false
+authors:
+  - Melissa González Sanabria
+projects:
+  - Roots
 image:
   filename: meli-fems.jpg
   focal_point: Smart
