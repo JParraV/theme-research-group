@@ -2,7 +2,15 @@
 title: Assessing the effect of temperature on Rhodococcus metabolite production
 publication_types:
   - article-journal
+authors:
+  - Macias-Contreras
+  - Natalie Millán-Aguiñaga
+  - Admin
+  - Katherine R. Duncan
 doi: https://doi.org/10.1099/mic.0.001598
+publication: Macias-Contreras, M. I., Millán-Aguiñaga, N., Parra, J., & Duncan,
+  K. R. (2025). Assessing the effect of temperature on Rhodococcus metabolite
+  production. Microbiology, 171(8), 001598.
 abstract: Rare actinomycetes are increasingly recognised as a valuable yet
   underexplored source of bioactive compounds with significant biomedical
   potential. While it is well established that bacteria have evolved adaptive
