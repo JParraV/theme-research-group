@@ -8,7 +8,7 @@ authors:
 projects:
   - Vida en la Arena
 image:
-  filename: featured
+  filename: mariana-isme-lat.jpg
   focal_point: Smart
   preview_only: false
 ---
