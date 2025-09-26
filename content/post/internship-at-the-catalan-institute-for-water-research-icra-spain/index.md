@@ -1,8 +1,10 @@
 ---
-title: internship at the Catalan Institute for Water Research (ICRA), Spain
+title: Internship at ICRA, Spain
 date: 2025-02-17T00:00:00.000-06:00
 draft: false
 featured: false
+authors:
+  - Douglas Venegas González
 image:
   filename: douglas-españa.jpg
   focal_point: Smart
