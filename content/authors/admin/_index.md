@@ -21,7 +21,7 @@ social:
     icon_pack: ai
     link: https://scholar.google.co.cr/citations?user=IRMm8A0AAAAJ&hl=en
   - display:
-      header: false
+      header: true
     icon: bluesky
     icon_pack: fab
     link: https://bsky.app/profile/jonathanparra.bsky.social
