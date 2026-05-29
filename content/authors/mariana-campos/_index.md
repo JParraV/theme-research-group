@@ -24,6 +24,6 @@ education:
       institution: Universidad de Costa Rica
 superuser: false
 user_groups:
-  - Undergrad Students
+  - Alumni
 ---
 Undergraduate student at the University of Costa Rica (UCR), pursuing a degree in Chemical Engineering. While developing her thesis project, Mariana isolated a collection of actinobacteria from marine sediments recovered from turtle nesting beaches and tested their activity against fungal isolates from infected turtle eggs. She aims to formulate a lyophilised prototype from actinobacteria that could be useful for sea turtle conservation programs.
