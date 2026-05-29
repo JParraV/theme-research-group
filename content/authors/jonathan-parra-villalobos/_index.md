@@ -1,7 +1,7 @@
 ---
 title: Jonathan Parra Villalobos
 role: Assistant Professor
-avatar_filename: parra.jpg
+avatar_filename: avatar.jpg
 bio: Integrating omics technologies for studying and discovering new antibiotics
   from actinomycetes.
 interests:
