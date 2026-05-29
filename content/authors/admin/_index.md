@@ -17,14 +17,14 @@ social:
     link: https://orcid.org/0000-0001-7273-0406
     icon_pack: fab
     icon: orcid
-  - icon: google-scholar
-    icon_pack: ai
-    link: https://scholar.google.co.cr/citations?user=IRMm8A0AAAAJ&hl=en
   - display:
-      header: true
+      header: false
     icon: bluesky
     icon_pack: fab
     link: https://bsky.app/profile/jonathanparra.bsky.social
+  - icon: google-scholar
+    icon_pack: ai
+    link: https://scholar.google.co.cr/citations?user=IRMm8A0AAAAJ&hl=en
   - display:
       header: false
     icon_pack: fab
@@ -52,7 +52,7 @@ user_groups:
 last_name: Parra
 highlight_name: false
 first_name: Jonathan
-email: ""
+email: jonathan.parra@ucr.ac.cr
 ---
 After pursuing a Pharmacy Degree and a Master's Degree in Chemistry at the University of Costa Rica, Parra obtained a PhD in Pharmacy and Biomedical Sciences at the University of Strathclyde, working in the group of [Katherine R. Duncan](https://t.co/Lji59VJjqQ) in the area of ​​antibiotic discovery from marine actinomycetes. Currently, he works as an associate researcher at the Natural Products Research Centre ([CIPRONA](https://ciprona.ucr.ac.cr/)) and the National Centre for Biotechnology Innovations ([CENIBiot](https://www.cenibiot.ac.cr/en/)).
 
