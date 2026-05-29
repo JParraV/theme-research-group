@@ -46,7 +46,7 @@ education:
     - course: BPharm
       institution: Universidad de Costa Rica
       year: 2011
-superuser: false
+superuser: true
 user_groups:
   - Principal Investigator
 last_name: Parra
