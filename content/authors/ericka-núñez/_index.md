@@ -1,5 +1,6 @@
 ---
 title: Ericka Núñez Rojas
+role: Pharmacy student
 avatar_filename: avatar.jpeg
 interests:
   - Molecular Biology
