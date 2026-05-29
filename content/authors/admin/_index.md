@@ -17,11 +17,6 @@ social:
     link: https://orcid.org/0000-0001-7273-0406
     icon_pack: fab
     icon: orcid
-  - display:
-      header: false
-    icon: bluesky
-    icon_pack: fab
-    link: https://bsky.app/profile/jonathanparra.bsky.social
   - icon: google-scholar
     icon_pack: ai
     link: https://scholar.google.co.cr/citations?user=IRMm8A0AAAAJ&hl=en
