@@ -23,7 +23,7 @@ social:
   - display:
       header: false
     icon: bluesky
-    icon_pack: fab
+    icon_pack: far
     link: https://bsky.app/profile/jonathanparra.bsky.social
   - display:
       header: false
