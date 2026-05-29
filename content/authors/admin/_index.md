@@ -25,6 +25,11 @@ social:
     icon_pack: fab
     icon: linkedin
     link: https://www.linkedin.com/in/jonathanparrav/
+  - display:
+      header: false
+    link: https://bsky.app/profile/jonathanparra.bsky.social
+    icon_pack: fab
+    icon: fa-bluesky
 organizations:
   - name: Universidad de Costa Rica
     url: https://www.ucr.ac.cr/
