@@ -5,6 +5,8 @@ draft: false
 featured: false
 authors:
   - Melissa González Sanabria
+projects:
+  - Roots
 image:
   filename: natural-products-in-the-21st-century.jpeg
   focal_point: Smart
