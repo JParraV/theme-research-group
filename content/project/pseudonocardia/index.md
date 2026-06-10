@@ -7,9 +7,7 @@ summary: ""
 draft: false
 featured: false
 authors:
-  - admin
-  - Johana Valera Rangel
-  - Leandro Villalobos Bravo
+  - Jonathan Parra Villalobos
   - Raquel Jiménez Umaña
 image:
   filename: p.-sediminis-nabu-7500.jpg
