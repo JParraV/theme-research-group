@@ -5,6 +5,8 @@ date: 2026-06-09T07:10:00.000+02:00
 summary: ""
 draft: false
 featured: false
+authors:
+  - Jonathan Parra Villalobos
 image:
   filename: field.jpeg
   focal_point: Smart
