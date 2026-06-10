@@ -6,8 +6,9 @@ date: 2024-09-26T17:04:00.000Z
 draft: false
 featured: false
 authors:
+  - Jonathan Parra Villalobos
   - Douglas Venegas González
-  - admin
+  - Melissa González Sanabria
 external_link: ""
 links:
   - url: https://github.com/DouglasVenegas/IQ_Chemical-Novelty-Index
