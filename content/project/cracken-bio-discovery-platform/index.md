@@ -5,7 +5,7 @@ date: 2024-07-08T16:35:00.000Z
 draft: false
 featured: false
 authors:
-  - admin
+  - Jonathan Parra Villalobos
   - Miguel Vega Fernández
 image:
   filename: cepas.jpg
