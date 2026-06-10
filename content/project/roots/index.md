@@ -5,7 +5,7 @@ date: 2024-08-08T17:53:00.000Z
 draft: false
 featured: false
 authors:
-  - admin
+  - Jonathan Parra Villalobos
   - Melissa González Sanabria
 image:
   filename: arroz.jpg
