@@ -4,7 +4,7 @@ date: 2024-07-02T17:43:00.000Z
 draft: false
 featured: false
 authors:
-  - admin
+  - Jonathan Parra Villalobos
 links:
   - icon_pack: fab
     icon: instagram
