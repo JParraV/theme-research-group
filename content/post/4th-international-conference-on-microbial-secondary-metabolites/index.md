@@ -4,7 +4,7 @@ date: 2026-06-10T07:52:00.000+02:00
 draft: false
 featured: false
 authors:
-  - Jonathan Parra
+  - Jonathan Parra Villalobos
 projects:
   - Turtles
 image:
