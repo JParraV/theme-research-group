@@ -4,7 +4,7 @@ subtitle: Exploring the role of actinomycetes in turtle nesting
 date: 2026-06-09T07:10:00.000+02:00
 summary: ""
 draft: false
-featured: false
+featured: true
 authors:
   - Jonathan Parra Villalobos
 image:
