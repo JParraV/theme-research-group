@@ -7,7 +7,7 @@ authors:
   - Neil A. Holmes
   - Barrie Wilkinson
   - Matthew I. Hutchings​
-  - admin
+  - Jonathan Parra Villalobos
   - Katherine R. Duncan
 doi: https://doi.org/10.1099/mic.0.001501
 publication: "Whatmough, B., Holmes, N. A., Wilkinson, B., Hutchings, M. I.,
