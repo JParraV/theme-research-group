@@ -4,7 +4,7 @@ title: Multi-omics analysis of antagonistic interactions among free-living
 publication_types:
   - article-journal
 authors:
-  - Admin
+  - Jonathan Parra Villalobos
   - Scott A. Jarmusch
   - Katherine R. Duncan
 doi: https://doi.org/10.1111/1462-2920.16635
