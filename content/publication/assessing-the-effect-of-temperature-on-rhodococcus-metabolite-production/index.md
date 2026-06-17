@@ -5,7 +5,7 @@ publication_types:
 authors:
   - Macias-Contreras
   - Natalie Millán-Aguiñaga
-  - Admin
+  - Jonathan Parra Villalobos
   - Katherine R. Duncan
 doi: https://doi.org/10.1099/mic.0.001598
 publication: Macias-Contreras, M. I., Millán-Aguiñaga, N., Parra, J., & Duncan,
