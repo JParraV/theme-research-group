@@ -7,7 +7,7 @@ authors:
   - Agustina Undabarrena
   - Camila F. Pereira
   - Worarat Kruasuwan
-  - Admin
+  - Jonathan Parra Villalobos
   - Nelly Sélem-Mojica
   - Kristiina Vind
   - Jana K. Schniete
