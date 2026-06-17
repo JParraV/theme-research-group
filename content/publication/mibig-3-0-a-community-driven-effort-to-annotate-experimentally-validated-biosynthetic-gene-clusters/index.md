@@ -6,7 +6,7 @@ publication_types:
 authors:
   - Barbara R Terlouw
   - ...
-  - admin
+  - Jonathan Parra Villalobos
   - ...
   - Roger G. Linington
   - Tilmann Weber
