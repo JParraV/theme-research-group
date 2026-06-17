@@ -30,5 +30,5 @@ image:
   filename: d6np00018e-f1_hi-res.gif
   focal_point: Smart
   preview_only: false
-date: 2026-06-11T00:00:00.000-06:00
+date: 2026-06-11T00:00:00.000-00:00
 ---
