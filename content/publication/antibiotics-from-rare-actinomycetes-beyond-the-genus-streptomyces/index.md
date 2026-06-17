@@ -3,7 +3,7 @@ title: Antibiotics from rare actinomycetes, beyond the genus Streptomyces
 publication_types:
   - article-journal
 authors:
-  - Admin
+  - Jonathan Parra Villalobos
   - Ainsley Beaton
   - Ryan F. Seipke
   - Barrie Wilkinson
