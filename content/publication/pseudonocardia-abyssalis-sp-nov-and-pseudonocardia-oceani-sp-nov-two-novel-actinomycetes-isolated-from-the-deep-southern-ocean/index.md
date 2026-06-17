@@ -4,7 +4,7 @@ title: Pseudonocardia abyssalis sp. nov. and Pseudonocardia oceani sp. nov., two
 publication_types:
   - article-journal
 authors:
-  - Admin
+  - Jonathan Parra Villalobos
   - Sylvia Soldatou
   - Liam M. Rooney
   - Katherine R. Duncan
