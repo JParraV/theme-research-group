@@ -9,7 +9,7 @@ authors:
   - Matthew Pin
   - Marla Macias Contreras
   - Emily McMann
-  - admin
+  - Jonathan Parra Villalobos
   - Brandon Showalter
   - Liana Zaroubi
   - Katherine R. Duncan
