@@ -8,9 +8,10 @@ authors:
   - Dulce G Guillén Matus
   - Katherine R Duncan
 doi: https://doi.org/10.1039/D6NP00018E
-publication_short: Parra, J., Macias-Contreras, M. I., Matus, D. G. G., &
-  Duncan, K. R. (2026). Ecological context for bacterial natural products
-  discovery. Natural Product Reports.
+publication: Parra, J., Macias-Contreras, M. I., Matus, D. G. G., & Duncan, K.
+  R. (2026). Ecological context for bacterial natural products discovery.
+  Natural Product Reports.
+publication_short: ""
 abstract: It is widely recognised that there is a significant gap between
   bacterial natural product potential and detected/described products. As such,
   there are several recent reviews on elicitation strategies for natural
