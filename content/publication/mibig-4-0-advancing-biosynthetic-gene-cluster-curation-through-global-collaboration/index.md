@@ -6,7 +6,7 @@ publication_types:
 authors:
   - Mitja M. Zdouc
   - ...
-  - admin
+  - Jonathan Parra Villalobos
   - ...
   - Roger G. Linington
   - Tilmann Weber
