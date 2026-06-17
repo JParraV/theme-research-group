@@ -1,5 +1,5 @@
 ---
-title: Turtles 2
+title: Turtles
 subtitle: Exploring the role of actinomycetes in turtle nesting
 date: 2026-06-16T19:39:00.000-06:00
 summary: ""
