@@ -30,7 +30,7 @@ authors:
   - Jordan Murray
   - Katie Noble
   - Hiroshi Otani
-  - Admin
+  - Jonathan Parra Villalobos
   - Camila F. Pereira
   - Louisa Perry
   - Linamaria Pintor-Escobar
