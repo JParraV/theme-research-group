@@ -1,7 +1,7 @@
 ---
 title: Turtles
 subtitle: Exploring the role of actinomycetes in turtle nesting
-date: 2026-06-16T19:39:00.000-06:00
+date: 2026-06-17T17:44:00.000-06:00
 summary: ""
 draft: false
 featured: false
