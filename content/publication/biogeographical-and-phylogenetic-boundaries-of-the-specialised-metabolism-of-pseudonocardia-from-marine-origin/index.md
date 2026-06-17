@@ -4,7 +4,7 @@ title: Biogeographical and phylogenetic boundaries of the specialised metabolism
 publication_types:
   - thesis
 authors:
-  - Admin
+  - Jonathan Parra Villalobos
 doi: https://doi.org/10.48730/w08e-3m22
 abstract: Multidrug-resistant pathogens have become a global threat. In this
   context, filamentous actinomycetes have been proven to be an exceptional
