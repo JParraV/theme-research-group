@@ -1,6 +1,6 @@
 ---
 title: Biogeographical and phylogenetic boundaries of the specialised metabolism
-  of pseudonocardia from marine origin
+  of Pseudonocardia from marine origin
 publication_types:
   - thesis
 authors:
