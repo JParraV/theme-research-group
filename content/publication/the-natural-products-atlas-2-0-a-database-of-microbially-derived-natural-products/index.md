@@ -14,7 +14,7 @@ authors:
   - David P. Fewer
   - Alison H. Hughes
   - Caitlin A. McCadden
-  - Admin
+  - Jonathan Parra Villalobos
   - Sylvia Soldatou
   - Jeffrey D. Rudolf
   - Elisabeth M-L. Janssen
