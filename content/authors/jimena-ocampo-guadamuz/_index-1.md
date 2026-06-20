@@ -11,7 +11,9 @@ social:
     link: mailto:jimeocampogua@gmail.com
     icon_pack: fas
     icon: envelope
-organizations: []
+organizations:
+  - name: Universidad de Costa Rica
+    url: https://www.ucr.ac.cr/
 education:
   courses:
     - course: Pharmacy Degree
