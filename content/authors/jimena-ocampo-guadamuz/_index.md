@@ -2,7 +2,7 @@
 title: Jimena Ocampo Guadamuz
 avatar_filename: avatar.jpeg
 interests:
-  - Drug discovery
+  - Drug Discovery
   - Pharmacology
   - Biotechnology
 social:
