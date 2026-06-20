@@ -18,7 +18,7 @@ education:
   courses:
     - course: Pharmacy Degree
       institution: Universidad de Costa Rica
-superuser: false
+superuser: true
 user_groups:
   - Undergrad Students
 ---
