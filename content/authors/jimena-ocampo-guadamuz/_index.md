@@ -17,5 +17,7 @@ education:
     - course: Pharmacy Degree
       institution: Universidad de Costa Rica
 superuser: false
+user_groups:
+  - Undergrad Students
 ---
 Undergraduate student at the University of Costa Rica (UCR), pursuing a degree in Pharmacy. Currently, Jimena works at the Natural Products Research Centre (CIPRONA) studying the influence on genomic architecture of marine *Pseudonocardias* on their chemical ecology, and how that affects their metabolite production.
