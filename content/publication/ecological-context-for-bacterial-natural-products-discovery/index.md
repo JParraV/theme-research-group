@@ -6,7 +6,7 @@ authors:
   - Jonathan Parra Villalobos
   - Marla I Macias-Contreras
   - Dulce G Guillén Matus
-  - Katherine R Duncan
+  - Katherine R. Duncan
 doi: https://doi.org/10.1039/D6NP00018E
 publication: Parra, J., Macias-Contreras, M. I., Matus, D. G. G., & Duncan, K.
   R. (2026). Ecological context for bacterial natural products discovery.
