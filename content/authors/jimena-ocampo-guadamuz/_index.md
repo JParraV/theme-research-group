@@ -10,7 +10,7 @@ social:
       header: false
     link: mailto:jimeocampogua@gmail.com
     icon_pack: fas
-    icon: "envelop "
+    icon: envelope
 organizations: []
 education:
   courses:
