@@ -12,6 +12,9 @@ social:
     icon_pack: fab
     link: https://www.linkedin.com/in/ericka-núñez-rojas-236717392
     icon: linkedin
+organizations:
+  - name: Universidad de Costa Rica
+    url: https://www.ucr.ac.cr/
 education:
   courses:
     - institution: Universidad de Costa Rica
