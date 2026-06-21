@@ -4,8 +4,8 @@ role: Pharmacy student
 avatar_filename: avatar.jpeg
 interests:
   - Drug Discovery
-  - Pharmacology
   - Biotechnology
+  - Pharmacology
 social:
   - display:
       header: false
