@@ -12,6 +12,9 @@ social:
     icon_pack: fas
     icon: envelope
     link: "mailto:raquedju@hotmail.com "
+organizations:
+  - name: Universidad de Costa Rica
+    url: https://www.ucr.ac.cr/
 education:
   courses:
     - course: Degree in Chemical Laboratory Science
