@@ -3,7 +3,7 @@ title: Jimena Ocampo Guadamuz
 role: Pharmacy student
 avatar_filename: avatar.jpeg
 interests:
-  - Drug Discover
+  - Drug Discovery
   - Biotechnology
   - Pharmacology
 social:
