@@ -12,4 +12,4 @@ image:
   focal_point: Smart
   preview_only: false
 ---
-Melissa attended the Natural Products in the 21st Century conference. She presented her work on endophytic actinomycetes for the control of fungal diseases in rice crops.
+Melissa attended the Natural Products in the 21st Century conference in Leuven, Belgium. She presented her work on endophytic actinomycetes for the control of fungal diseases in rice crops.
