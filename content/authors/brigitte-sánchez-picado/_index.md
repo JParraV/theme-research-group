@@ -10,7 +10,7 @@ social:
   - display:
       header: false
     icon_pack: fas
-    icon: envolope
+    icon: envelope
     link: mailto:HAZEL.SANCHEZPICADO@ucr.ac.cr
 superuser: false
 user_groups:
