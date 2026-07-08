@@ -2,6 +2,10 @@
 title: Brigitte Sánchez Picado
 role: Chemical Laboratory Science Student
 avatar_filename: avatar.jpeg
+interests:
+  - Molecular Biology
+  - Biochemistry
+  - Natural Products
 social:
   - display:
       header: false
