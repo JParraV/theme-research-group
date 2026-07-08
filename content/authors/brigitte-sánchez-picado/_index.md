@@ -12,6 +12,10 @@ social:
     icon_pack: fas
     icon: envelope
     link: mailto:HAZEL.SANCHEZPICADO@ucr.ac.cr
+education:
+  courses:
+    - course: Degree in Chemical Laboratory Science
+      institution: Universidad de Costa Rica
 superuser: false
 user_groups:
   - Undergrad Students
