@@ -12,6 +12,9 @@ social:
     icon_pack: fas
     icon: envelope
     link: mailto:HAZEL.SANCHEZPICADO@ucr.ac.cr
+organizations:
+  - url: https://www.ucr.ac.cr/
+    name: Universidad de Costa Rica
 education:
   courses:
     - course: Degree in Chemical Laboratory Science
