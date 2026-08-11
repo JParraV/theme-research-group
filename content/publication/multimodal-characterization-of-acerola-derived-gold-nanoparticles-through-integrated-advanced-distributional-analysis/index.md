@@ -2,7 +2,7 @@
 title: Multimodal Characterization of Acerola-Derived Gold Nanoparticles through
   Integrated Advanced Distributional Analysis
 publication_types:
-  - paper-conference
+  - article-journal
 authors:
   - Luis Diego Mora-Araya
   - Juan Miguel Zúñiga-Umaña
