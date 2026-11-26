@@ -11,4 +11,4 @@ image:
   focal_point: Smart
   preview_only: false
 ---
-Our group participated in the 3rd Genome Mining of Natural Products Latin America event in Guanajuato, Mexico. We engaged with young scientists from the region, discussing metabolomics and its integration with the mining of biosynthetic gene clusters.
+Our group participated in the 3rd Genome Mining of Natural Products Latin America workshop in Guanajuato, Mexico. We engaged with young scientists from the region, discussing metabolomics and its integration with biosynthetic gene clusters mining.
