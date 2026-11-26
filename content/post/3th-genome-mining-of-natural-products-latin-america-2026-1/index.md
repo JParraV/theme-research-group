@@ -6,7 +6,7 @@ featured: false
 authors:
   - Ericka Núñez Rojas
 image:
-  filename: ericka.jpeg
+  filename: ""
   focal_point: Smart
   preview_only: false
 ---
