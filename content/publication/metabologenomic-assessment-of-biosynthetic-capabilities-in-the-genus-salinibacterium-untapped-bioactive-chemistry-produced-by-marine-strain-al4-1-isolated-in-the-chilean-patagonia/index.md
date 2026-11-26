@@ -12,7 +12,7 @@ authors:
   - Thomas Dacal-Barahona
   - Valentina González
   - Melissa González-Sanabria
-  - Jonathan Parra
+  - Jonathan Parra Villalobos
   - Beatriz Cámara
 doi: https://doi.org/10.1099/mgen.0.001891
 publication: "Sánchez-Carvajal, E., Serna-Cardona, N., Claverías, F. P., Vargas,
